@@ -1,3 +1,6 @@
+All the codes are written in python IDE Spyder(Python 3.7)
+Make sure libraries like numpy and matplotlib are already installed.
+
 Solution to problem:
 
 -1a and 1b are solved in 16AE30018_AS1_Part_1and2.py
